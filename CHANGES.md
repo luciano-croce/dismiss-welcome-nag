@@ -29,3 +29,4 @@ Release Date: December 12, 2013
     Compatible with MySQL 5.0+ or greater
     Requires WordPress Version 4.8+ or greater
     Requires PHP Version 5.2.4 or greater
+
